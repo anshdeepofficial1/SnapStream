@@ -251,9 +251,9 @@ Built on top of SnapStream by Ansh200618
 ## Support
 
 For issues, questions, or contributions, please visit:
-- Main Repository: https://github.com/Ansh200618/SnapStream
-- Issues: https://github.com/Ansh200618/SnapStream/issues
+- Main Repository: https://github.com/anshdeepofficial1/SnapStream
+- Issues: https://github.com/anshdeepofficial1/SnapStream/issues
 
 ---
 
-**Made with ❤️ by [Ansh200618](https://github.com/Ansh200618)**
+**Made with ❤️ by [Ansh200618](https://github.com/anshdeepofficial1)**
