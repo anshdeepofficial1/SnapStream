@@ -74,3 +74,7 @@ Contributions are welcome, particularly around detection reliability, responsive
 <div align="center">
 Built by <a href="https://github.com/anshdeepofficial1">Anshdeep Singh</a>
 </div>
+
+---
+
+**Developer profile:** This repository is part of the public project portfolio of [Anshdeep Singh](https://github.com/anshdeepofficial1). [Anshdeep Singh — official portfolio](https://anshdeepofficial1.vercel.app/about) · [Public project directory](https://anshdeepofficial1.vercel.app/work).
